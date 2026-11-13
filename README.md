@@ -1,5 +1,5 @@
 
-# ✈️ TravelAI Premium
+# ✈️ TravelAI Itinerary with Hodophiler
 
 ## AI Cultural Tourism Insights & Engagement Platform
 
